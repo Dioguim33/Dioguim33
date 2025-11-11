@@ -10,28 +10,18 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - TypeScript
 - NestJS
 - Ethereum
-## 🧠 Known Technologies
+  
+### 🛠️ Tecnologias que Utilizo
 
-### Operational Systems & Version Control
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</p>
 
-### Programming & Markup Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![DART](https://simpleicons.org/?modal=icon&q=dart)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🔧 Frameworks
-
-#### Mobile
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
----
-
-### 🗃️ Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git" height="30" alt="Git" title="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" height="30" alt="Docker" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodejs" height="30" alt="Node.js" title="Node.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode" height="30" alt="VSCode" title="VSCode"/>
+</p>
