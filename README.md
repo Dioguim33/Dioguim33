@@ -14,6 +14,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 ## 🛠️ Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt=""/>
 </p>
 
