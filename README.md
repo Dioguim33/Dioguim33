@@ -19,3 +19,10 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/>
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
 </p>
+
+## 🤖 AI
+<p align="left">
+  <img src="https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=gemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/anthropic-191919?style=for-the-badge&logo=sqlite&logoColor=white" alt="Anthropic"/>
+</p>
