@@ -1,4 +1,4 @@
-![Header image]()
+![Header image](https://github.com/Dioguim33/Dioguim33/blob/main/Assets/header-github.png)
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
