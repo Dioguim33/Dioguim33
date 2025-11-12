@@ -9,7 +9,9 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain"/>
+  <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="langgraph"/>
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
 
 ## 🛠️ Tools
