@@ -27,7 +27,7 @@ Feel free to connect with me on LinkedIn!
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt=""/>
 </p>
 
-## 🛢 Database
+## 🛢 Databases
 <p align="left">
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/>
