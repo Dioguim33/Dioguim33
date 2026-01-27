@@ -1,8 +1,6 @@
 ![Header image](https://github.com/Dioguim33/Dioguim33/blob/main/Assets/header-github.png)
 
-I am a Software Engineering student and Mobile Developer. I'm also exploring building AI Agents.
-
-Currently, I'm focusing on advancing my skills in Flutter while also using Python to build AI Agents.
+I am a Software Engineering student and Mobile Developer.
 
 Feel free to connect with me on LinkedIn!
 
